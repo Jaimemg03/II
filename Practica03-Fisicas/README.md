@@ -1,6 +1,6 @@
-# Práctica 03: Scripts de Movimiento en Unity
+# Práctica 03: Físicas
 
-Este repositorio contiene los scripts desarrollados para la práctica de scripts en Unity. A continuación se explica brevemente la funcionalidad de cada script y cómo se relaciona con los ejercicios propuestos en el enunciado.
+Este repositorio contiene los scripts desarrollados para la práctica de físicas en Unity. A continuación se explica brevemente la funcionalidad de cada script y cómo se relaciona con los ejercicios propuestos en el enunciado.
 
 ## Primera Parte:
 
