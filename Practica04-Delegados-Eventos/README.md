@@ -1,6 +1,6 @@
-# Práctica 04: Scripts de Movimiento en Unity
+# Práctica 04: Delegados y Eventos
 
-Este repositorio contiene los scripts desarrollados para la práctica de scripts en Unity. A continuación se explica brevemente la funcionalidad de cada script y cómo se relaciona con los ejercicios propuestos en el enunciado.
+Este repositorio contiene los scripts desarrollados para la práctica de Delegados y Eventos en Unity. A continuación se explica brevemente la funcionalidad de cada script y cómo se relaciona con los ejercicios propuestos en el enunciado.
 
 ## Primera Parte:
 
