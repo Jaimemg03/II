@@ -1,6 +1,6 @@
 # Práctica 05: Cardboard
 
-Este repositorio contiene los scripts desarrollados para la práctica de scripts en Unity. A continuación se explica brevemente la funcionalidad de cada script y cómo se relaciona con los ejercicios propuestos en el enunciado.
+Este repositorio contiene los scripts desarrollados para la práctica de cardboard en Unity. A continuación se explica brevemente la funcionalidad de cada script y cómo se relaciona con los ejercicios propuestos en el enunciado.
 
 ## Primera Parte:
 
